@@ -1,2 +1,2 @@
-https://github.com/FrontMusG/zakrivayuschiy-teg-fd,
-https://frontmusg.github.io/zakrivayuschiy-teg-fd/
+https://github.com/FrontMusG/zakrivayuschiy-teg-f
+https://frontmusg.github.io/zakrivayuschiy-teg-f/
