@@ -4,8 +4,8 @@
   --font-main: 'Inter-Variable', sans-serif;
   --weight-card-title: 715;
   --weight-card-text: 410;
-  --weight-page-main: 400;
-  --font-accent: 'PressStart2P', sans-serif;
+  --weight-page-main: 410;
+  --font-accent: 'PressStart2P', 'fantasy';
   --font-size-title: clamp(3.0625rem, 2.7104rem + 1.5023vw, 4.0625rem);
   --font-size-subtitle: clamp(0.875rem, 0.6769rem + 0.8451vw, 1.4375rem);
   --header-padding-y: clamp(7.625rem, 7.4489rem + 0.7512vw, 8.125rem);
@@ -32,4 +32,5 @@
   --accent-color: #000;
   --animation-fill-color: #f00;
   --fill-color-hover: #000;
+  --line-height-text: 1.3125rem;
 }
